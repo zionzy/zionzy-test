@@ -5,3 +5,4 @@ added from feature-1 branch
 added one more line
 
 add this line from develop
+added a line from feature-1
